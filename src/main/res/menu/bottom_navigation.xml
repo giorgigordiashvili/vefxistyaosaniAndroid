@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_vefxistyaosani" android:icon="@drawable/ic_vefxistyaosani" android:title="ვეფხისტყაოსანი"/>
+    <item android:id="@+id/nav_sarchevi" android:icon="@drawable/ic_sarchevi" android:title="სარჩევი"/>
+    <item android:id="@+id/nav_aporizmebi" android:icon="@drawable/ic_aporizmebi" android:title="აფორიზმები"/>
+</menu>
